@@ -15,7 +15,7 @@ class Parser(report_sxw.rml_parse):
 
     def _get_detail(self, obj):
         orderid = obj.id
-
+		lst = []
         sql = """
          WITH get_qty_untax as(
          SELECT pp.default_code as part_no , sl.name as description, sl.product_uom_qty as quantity, pt.weight_net,sl.product_uom_qty as product_uom_qty, sl.price_unit as price_unit, sl.id as id
@@ -122,6 +122,9 @@ class Parser(report_sxw.rml_parse):
         return res
 
         
+    def _get_total(self, obj):
+        orderid = obj.id
+
     
         
    
