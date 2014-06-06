@@ -1,0 +1,22 @@
+1) an menu bang bao gia
+2) co the sua ngay cua don hang, cac thong tin donban hang
+3) ngay tren don hang : ngay thang nam
+
+zxx) redbill la hoa don do
+
+4)bao cao phan doan -> an2 field con lai
+	them cot ngay giao
+	sai ngay giao hang
+
+5) bao cao tien do san xuat don hang ->
+	 redbill la hoa don do
+
+6) tran sale order
+	chi tiet cot trang thai
+7) huy nhanh cac phieu nhap xuat 
+8) bao cao nhap xuat ton-> neu ko chon thi mac dinh lay cac kholien quan
+
+4)tran bao cao ke hoach, liet ke cac chi phi
+	tran sale order, them filed ty gia,
+	trean bao cao, lay tong cac xxxx / ty gia
+	
